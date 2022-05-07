@@ -1,0 +1,15 @@
+2022-05-07 21:58:13,318 INFO 12933 [Timer] /Users/yushengyuan/yushengyuan/personal-project/client-system/egg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 23506684ms at 2022-05-08 04:30:00.002
+2022-05-07 21:58:13,318 INFO 12933 [Timer] /Users/yushengyuan/yushengyuan/personal-project/client-system/egg/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 7306682ms at 2022-05-08 00:00:00.000
+2022-05-07 21:58:13,318 INFO 12933 [Timer] /Users/yushengyuan/yushengyuan/personal-project/client-system/egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 7307682ms at 2022-05-08 00:00:01.000
+2022-05-07 21:58:13,272 INFO 12934 [egg-schedule]: register schedule /Users/yushengyuan/yushengyuan/personal-project/client-system/egg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2022-05-07 21:58:13,272 INFO 12934 [egg-schedule]: register schedule /Users/yushengyuan/yushengyuan/personal-project/client-system/egg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2022-05-07 21:58:13,272 INFO 12934 [egg-schedule]: register schedule /Users/yushengyuan/yushengyuan/personal-project/client-system/egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2022-05-07 22:01:47,305 INFO 13201 [Timer] /Users/yushengyuan/yushengyuan/personal-project/client-system/egg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 23292696ms at 2022-05-08 04:30:00.001
+2022-05-07 22:01:47,305 INFO 13201 [Timer] /Users/yushengyuan/yushengyuan/personal-project/client-system/egg/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 7092695ms at 2022-05-08 00:00:00.000
+2022-05-07 22:01:47,306 INFO 13201 [Timer] /Users/yushengyuan/yushengyuan/personal-project/client-system/egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 7093695ms at 2022-05-08 00:00:01.001
+2022-05-07 22:01:47,259 INFO 13202 [egg-schedule]: register schedule /Users/yushengyuan/yushengyuan/personal-project/client-system/egg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2022-05-07 22:01:47,259 INFO 13202 [egg-schedule]: register schedule /Users/yushengyuan/yushengyuan/personal-project/client-system/egg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2022-05-07 22:01:47,259 INFO 13202 [egg-schedule]: register schedule /Users/yushengyuan/yushengyuan/personal-project/client-system/egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2022-05-07 22:02:43,713 INFO 13270 [egg-schedule]: register schedule /Users/yushengyuan/yushengyuan/personal-project/client-system/egg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2022-05-07 22:02:43,713 INFO 13270 [egg-schedule]: register schedule /Users/yushengyuan/yushengyuan/personal-project/client-system/egg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2022-05-07 22:02:43,713 INFO 13270 [egg-schedule]: register schedule /Users/yushengyuan/yushengyuan/personal-project/client-system/egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js

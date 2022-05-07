@@ -1,0 +1,36 @@
+{
+  "extends": "eslint:recommended",
+  "parserOptions": {
+    "ecmaVersion": 6
+  },
+  "rules": {
+    "indent": [
+      "error",
+      2
+    ],
+    "no-unused-vars": "off",
+    "semi": [
+      "error",
+      "never"
+    ]
+  },
+  "env": {
+    "node": true
+  },
+  "overrides": [
+    {
+      "files": [
+        "./src/**/*.vue",
+        "./src/*.vue"
+      ],
+      "parser": "vue-eslint-parser",
+      "parserOptions": {
+        "sourceType": "module"
+      }
+    },
+    {
+      "files": ["./src/**/*.ts", "./src/*.ts", "./src/**/*.d.ts", "./src/*.d.ts"],
+      "parser": "@typescript-eslint/parser"
+    }
+  ]
+}

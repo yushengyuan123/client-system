@@ -1,0 +1,312 @@
+{
+  "security": {
+    "csrf": {
+      "enable": "/Users/yushengyuan/yushengyuan/personal-project/client-system/egg/config/config.default.ts",
+      "type": "/Users/yushengyuan/yushengyuan/personal-project/client-system/egg/node_modules/egg-security/config/config.default.js",
+      "ignoreJSON": "/Users/yushengyuan/yushengyuan/personal-project/client-system/egg/node_modules/egg-security/config/config.default.js",
+      "useSession": "/Users/yushengyuan/yushengyuan/personal-project/client-system/egg/node_modules/egg-security/config/config.default.js",
+      "cookieName": "/Users/yushengyuan/yushengyuan/personal-project/client-system/egg/node_modules/egg-security/config/config.default.js",
+      "sessionName": "/Users/yushengyuan/yushengyuan/personal-project/client-system/egg/node_modules/egg-security/config/config.default.js",
+      "headerName": "/Users/yushengyuan/yushengyuan/personal-project/client-system/egg/node_modules/egg-security/config/config.default.js",
+      "bodyName": "/Users/yushengyuan/yushengyuan/personal-project/client-system/egg/node_modules/egg-security/config/config.default.js",
+      "queryName": "/Users/yushengyuan/yushengyuan/personal-project/client-system/egg/node_modules/egg-security/config/config.default.js",
+      "supportedRequests": "/Users/yushengyuan/yushengyuan/personal-project/client-system/egg/node_modules/egg-security/config/config.default.js",
+      "refererWhiteList": "/Users/yushengyuan/yushengyuan/personal-project/client-system/egg/node_modules/egg-security/config/config.default.js"
+    },
+    "domainWhiteList": "/Users/yushengyuan/yushengyuan/personal-project/client-system/egg/node_modules/egg-security/config/config.default.js",
+    "protocolWhiteList": "/Users/yushengyuan/yushengyuan/personal-project/client-system/egg/node_modules/egg-security/config/config.default.js",
+    "defaultMiddleware": "/Users/yushengyuan/yushengyuan/personal-project/client-system/egg/node_modules/egg-security/config/config.default.js",
+    "xframe": {
+      "enable": "/Users/yushengyuan/yushengyuan/personal-project/client-system/egg/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/yushengyuan/yushengyuan/personal-project/client-system/egg/node_modules/egg-security/config/config.default.js"
+    },
+    "hsts": {
+      "enable": "/Users/yushengyuan/yushengyuan/personal-project/client-system/egg/node_modules/egg-security/config/config.local.js",
+      "maxAge": "/Users/yushengyuan/yushengyuan/personal-project/client-system/egg/node_modules/egg-security/config/config.default.js",
+      "includeSubdomains": "/Users/yushengyuan/yushengyuan/personal-project/client-system/egg/node_modules/egg-security/config/config.default.js"
+    },
+    "dta": {
+      "enable": "/Users/yushengyuan/yushengyuan/personal-project/client-system/egg/node_modules/egg-security/config/config.default.js"
+    },
+    "methodnoallow": {
+      "enable": "/Users/yushengyuan/yushengyuan/personal-project/client-system/egg/node_modules/egg-security/config/config.default.js"
+    },
+    "noopen": {
+      "enable": "/Users/yushengyuan/yushengyuan/personal-project/client-system/egg/node_modules/egg-security/config/config.default.js"
+    },
+    "nosniff": {
+      "enable": "/Users/yushengyuan/yushengyuan/personal-project/client-system/egg/node_modules/egg-security/config/config.default.js"
+    },
+    "referrerPolicy": {
+      "enable": "/Users/yushengyuan/yushengyuan/personal-project/client-system/egg/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/yushengyuan/yushengyuan/personal-project/client-system/egg/node_modules/egg-security/config/config.default.js"
+    },
+    "xssProtection": {
+      "enable": "/Users/yushengyuan/yushengyuan/personal-project/client-system/egg/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/yushengyuan/yushengyuan/personal-project/client-system/egg/node_modules/egg-security/config/config.default.js"
+    },
+    "csp": {
+      "enable": "/Users/yushengyuan/yushengyuan/personal-project/client-system/egg/node_modules/egg-security/config/config.default.js",
+      "policy": "/Users/yushengyuan/yushengyuan/personal-project/client-system/egg/node_modules/egg-security/config/config.default.js"
+    },
+    "ssrf": {
+      "ipBlackList": "/Users/yushengyuan/yushengyuan/personal-project/client-system/egg/node_modules/egg-security/config/config.default.js",
+      "ipExceptionList": "/Users/yushengyuan/yushengyuan/personal-project/client-system/egg/node_modules/egg-security/config/config.default.js",
+      "checkAddress": "/Users/yushengyuan/yushengyuan/personal-project/client-system/egg/node_modules/egg-security/config/config.default.js"
+    }
+  },
+  "keys": "/Users/yushengyuan/yushengyuan/personal-project/client-system/egg/config/config.default.ts",
+  "middleware": "/Users/yushengyuan/yushengyuan/personal-project/client-system/egg/config/config.default.ts",
+  "sourceUrl": "/Users/yushengyuan/yushengyuan/personal-project/client-system/egg/config/config.default.ts",
+  "session": {
+    "maxAge": "/Users/yushengyuan/yushengyuan/personal-project/client-system/egg/node_modules/egg-session/config/config.default.js",
+    "key": "/Users/yushengyuan/yushengyuan/personal-project/client-system/egg/node_modules/egg-session/config/config.default.js",
+    "httpOnly": "/Users/yushengyuan/yushengyuan/personal-project/client-system/egg/node_modules/egg-session/config/config.default.js",
+    "encrypt": "/Users/yushengyuan/yushengyuan/personal-project/client-system/egg/node_modules/egg-session/config/config.default.js",
+    "logValue": "/Users/yushengyuan/yushengyuan/personal-project/client-system/egg/node_modules/egg-session/config/config.default.js"
+  },
+  "helper": {
+    "shtml": "/Users/yushengyuan/yushengyuan/personal-project/client-system/egg/node_modules/egg-security/config/config.default.js"
+  },
+  "jsonp": {
+    "limit": "/Users/yushengyuan/yushengyuan/personal-project/client-system/egg/node_modules/egg-jsonp/config/config.default.js",
+    "callback": "/Users/yushengyuan/yushengyuan/personal-project/client-system/egg/node_modules/egg-jsonp/config/config.default.js",
+    "csrf": "/Users/yushengyuan/yushengyuan/personal-project/client-system/egg/node_modules/egg-jsonp/config/config.default.js"
+  },
+  "onerror": {
+    "errorPageUrl": "/Users/yushengyuan/yushengyuan/personal-project/client-system/egg/node_modules/egg-onerror/config/config.default.js",
+    "appErrorFilter": "/Users/yushengyuan/yushengyuan/personal-project/client-system/egg/node_modules/egg-onerror/config/config.default.js",
+    "templatePath": "/Users/yushengyuan/yushengyuan/personal-project/client-system/egg/node_modules/egg-onerror/config/config.default.js"
+  },
+  "i18n": {
+    "defaultLocale": "/Users/yushengyuan/yushengyuan/personal-project/client-system/egg/node_modules/egg-i18n/config/config.default.js",
+    "dirs": "/Users/yushengyuan/yushengyuan/personal-project/client-system/egg/node_modules/egg-i18n/config/config.default.js",
+    "queryField": "/Users/yushengyuan/yushengyuan/personal-project/client-system/egg/node_modules/egg-i18n/config/config.default.js",
+    "cookieField": "/Users/yushengyuan/yushengyuan/personal-project/client-system/egg/node_modules/egg-i18n/config/config.default.js",
+    "cookieDomain": "/Users/yushengyuan/yushengyuan/personal-project/client-system/egg/node_modules/egg-i18n/config/config.default.js",
+    "cookieMaxAge": "/Users/yushengyuan/yushengyuan/personal-project/client-system/egg/node_modules/egg-i18n/config/config.default.js"
+  },
+  "watcher": {
+    "type": "/Users/yushengyuan/yushengyuan/personal-project/client-system/egg/node_modules/egg-watcher/config/config.local.js",
+    "eventSources": {
+      "default": "/Users/yushengyuan/yushengyuan/personal-project/client-system/egg/node_modules/egg-watcher/config/config.default.js",
+      "development": "/Users/yushengyuan/yushengyuan/personal-project/client-system/egg/node_modules/egg-watcher/config/config.default.js"
+    }
+  },
+  "customLogger": {
+    "scheduleLogger": {
+      "consoleLevel": "/Users/yushengyuan/yushengyuan/personal-project/client-system/egg/node_modules/egg-schedule/config/config.default.js",
+      "file": "/Users/yushengyuan/yushengyuan/personal-project/client-system/egg/node_modules/egg-schedule/config/config.default.js"
+    }
+  },
+  "schedule": {
+    "directory": "/Users/yushengyuan/yushengyuan/personal-project/client-system/egg/node_modules/egg-schedule/config/config.default.js"
+  },
+  "multipart": {
+    "mode": "/Users/yushengyuan/yushengyuan/personal-project/client-system/egg/node_modules/egg-multipart/config/config.default.js",
+    "autoFields": "/Users/yushengyuan/yushengyuan/personal-project/client-system/egg/node_modules/egg-multipart/config/config.default.js",
+    "defaultCharset": "/Users/yushengyuan/yushengyuan/personal-project/client-system/egg/node_modules/egg-multipart/config/config.default.js",
+    "fieldNameSize": "/Users/yushengyuan/yushengyuan/personal-project/client-system/egg/node_modules/egg-multipart/config/config.default.js",
+    "fieldSize": "/Users/yushengyuan/yushengyuan/personal-project/client-system/egg/node_modules/egg-multipart/config/config.default.js",
+    "fields": "/Users/yushengyuan/yushengyuan/personal-project/client-system/egg/node_modules/egg-multipart/config/config.default.js",
+    "fileSize": "/Users/yushengyuan/yushengyuan/personal-project/client-system/egg/node_modules/egg-multipart/config/config.default.js",
+    "files": "/Users/yushengyuan/yushengyuan/personal-project/client-system/egg/node_modules/egg-multipart/config/config.default.js",
+    "fileExtensions": "/Users/yushengyuan/yushengyuan/personal-project/client-system/egg/node_modules/egg-multipart/config/config.default.js",
+    "whitelist": "/Users/yushengyuan/yushengyuan/personal-project/client-system/egg/node_modules/egg-multipart/config/config.default.js",
+    "allowArrayField": "/Users/yushengyuan/yushengyuan/personal-project/client-system/egg/node_modules/egg-multipart/config/config.default.js",
+    "tmpdir": "/Users/yushengyuan/yushengyuan/personal-project/client-system/egg/node_modules/egg-multipart/config/config.default.js",
+    "cleanSchedule": {
+      "cron": "/Users/yushengyuan/yushengyuan/personal-project/client-system/egg/node_modules/egg-multipart/config/config.default.js",
+      "disable": "/Users/yushengyuan/yushengyuan/personal-project/client-system/egg/node_modules/egg-multipart/config/config.default.js"
+    }
+  },
+  "development": {
+    "watchDirs": "/Users/yushengyuan/yushengyuan/personal-project/client-system/egg/node_modules/egg-development/config/config.default.js",
+    "ignoreDirs": "/Users/yushengyuan/yushengyuan/personal-project/client-system/egg/node_modules/egg-development/config/config.default.js",
+    "fastReady": "/Users/yushengyuan/yushengyuan/personal-project/client-system/egg/node_modules/egg-development/config/config.default.js",
+    "reloadOnDebug": "/Users/yushengyuan/yushengyuan/personal-project/client-system/egg/node_modules/egg-development/config/config.default.js",
+    "overrideDefault": "/Users/yushengyuan/yushengyuan/personal-project/client-system/egg/node_modules/egg-development/config/config.default.js",
+    "overrideIgnore": "/Users/yushengyuan/yushengyuan/personal-project/client-system/egg/node_modules/egg-development/config/config.default.js"
+  },
+  "logrotator": {
+    "filesRotateByHour": "/Users/yushengyuan/yushengyuan/personal-project/client-system/egg/node_modules/egg-logrotator/config/config.default.js",
+    "hourDelimiter": "/Users/yushengyuan/yushengyuan/personal-project/client-system/egg/node_modules/egg-logrotator/config/config.default.js",
+    "filesRotateBySize": "/Users/yushengyuan/yushengyuan/personal-project/client-system/egg/node_modules/egg-logrotator/config/config.default.js",
+    "maxFileSize": "/Users/yushengyuan/yushengyuan/personal-project/client-system/egg/node_modules/egg-logrotator/config/config.default.js",
+    "maxFiles": "/Users/yushengyuan/yushengyuan/personal-project/client-system/egg/node_modules/egg-logrotator/config/config.default.js",
+    "rotateDuration": "/Users/yushengyuan/yushengyuan/personal-project/client-system/egg/node_modules/egg-logrotator/config/config.default.js",
+    "maxDays": "/Users/yushengyuan/yushengyuan/personal-project/client-system/egg/node_modules/egg-logrotator/config/config.default.js"
+  },
+  "static": {
+    "prefix": "/Users/yushengyuan/yushengyuan/personal-project/client-system/egg/node_modules/egg-static/config/config.default.js",
+    "dir": "/Users/yushengyuan/yushengyuan/personal-project/client-system/egg/node_modules/egg-static/config/config.default.js",
+    "dynamic": "/Users/yushengyuan/yushengyuan/personal-project/client-system/egg/node_modules/egg-static/config/config.default.js",
+    "preload": "/Users/yushengyuan/yushengyuan/personal-project/client-system/egg/node_modules/egg-static/config/config.default.js",
+    "buffer": "/Users/yushengyuan/yushengyuan/personal-project/client-system/egg/node_modules/egg-static/config/config.default.js",
+    "maxFiles": "/Users/yushengyuan/yushengyuan/personal-project/client-system/egg/node_modules/egg-static/config/config.default.js"
+  },
+  "view": {
+    "root": "/Users/yushengyuan/yushengyuan/personal-project/client-system/egg/node_modules/egg-view/config/config.default.js",
+    "cache": "/Users/yushengyuan/yushengyuan/personal-project/client-system/egg/node_modules/egg-view/config/config.local.js",
+    "defaultExtension": "/Users/yushengyuan/yushengyuan/personal-project/client-system/egg/node_modules/egg-view/config/config.default.js",
+    "defaultViewEngine": "/Users/yushengyuan/yushengyuan/personal-project/client-system/egg/node_modules/egg-view/config/config.default.js",
+    "mapping": "/Users/yushengyuan/yushengyuan/personal-project/client-system/egg/node_modules/egg-view/config/config.default.js"
+  },
+  "env": "/Users/yushengyuan/yushengyuan/personal-project/client-system/egg/node_modules/egg/config/config.default.js",
+  "name": "/Users/yushengyuan/yushengyuan/personal-project/client-system/egg/node_modules/egg/config/config.default.js",
+  "cookies": "/Users/yushengyuan/yushengyuan/personal-project/client-system/egg/node_modules/egg/config/config.default.js",
+  "proxy": "/Users/yushengyuan/yushengyuan/personal-project/client-system/egg/node_modules/egg/config/config.default.js",
+  "maxIpsCount": "/Users/yushengyuan/yushengyuan/personal-project/client-system/egg/node_modules/egg/config/config.default.js",
+  "maxProxyCount": "/Users/yushengyuan/yushengyuan/personal-project/client-system/egg/node_modules/egg/config/config.default.js",
+  "protocolHeaders": "/Users/yushengyuan/yushengyuan/personal-project/client-system/egg/node_modules/egg/config/config.default.js",
+  "ipHeaders": "/Users/yushengyuan/yushengyuan/personal-project/client-system/egg/node_modules/egg/config/config.default.js",
+  "hostHeaders": "/Users/yushengyuan/yushengyuan/personal-project/client-system/egg/node_modules/egg/config/config.default.js",
+  "pkg": {
+    "name": "/Users/yushengyuan/yushengyuan/personal-project/client-system/egg/node_modules/egg/config/config.default.js",
+    "version": "/Users/yushengyuan/yushengyuan/personal-project/client-system/egg/node_modules/egg/config/config.default.js",
+    "description": "/Users/yushengyuan/yushengyuan/personal-project/client-system/egg/node_modules/egg/config/config.default.js",
+    "private": "/Users/yushengyuan/yushengyuan/personal-project/client-system/egg/node_modules/egg/config/config.default.js",
+    "main": "/Users/yushengyuan/yushengyuan/personal-project/client-system/egg/node_modules/egg/config/config.default.js",
+    "egg": {
+      "typescript": "/Users/yushengyuan/yushengyuan/personal-project/client-system/egg/node_modules/egg/config/config.default.js",
+      "declarations": "/Users/yushengyuan/yushengyuan/personal-project/client-system/egg/node_modules/egg/config/config.default.js"
+    },
+    "scripts": {
+      "start": "/Users/yushengyuan/yushengyuan/personal-project/client-system/egg/node_modules/egg/config/config.default.js",
+      "stop": "/Users/yushengyuan/yushengyuan/personal-project/client-system/egg/node_modules/egg/config/config.default.js",
+      "dev": "/Users/yushengyuan/yushengyuan/personal-project/client-system/egg/node_modules/egg/config/config.default.js",
+      "debug": "/Users/yushengyuan/yushengyuan/personal-project/client-system/egg/node_modules/egg/config/config.default.js",
+      "test-local": "/Users/yushengyuan/yushengyuan/personal-project/client-system/egg/node_modules/egg/config/config.default.js",
+      "test": "/Users/yushengyuan/yushengyuan/personal-project/client-system/egg/node_modules/egg/config/config.default.js",
+      "cov": "/Users/yushengyuan/yushengyuan/personal-project/client-system/egg/node_modules/egg/config/config.default.js",
+      "tsc": "/Users/yushengyuan/yushengyuan/personal-project/client-system/egg/node_modules/egg/config/config.default.js",
+      "ci": "/Users/yushengyuan/yushengyuan/personal-project/client-system/egg/node_modules/egg/config/config.default.js",
+      "autod": "/Users/yushengyuan/yushengyuan/personal-project/client-system/egg/node_modules/egg/config/config.default.js",
+      "lint": "/Users/yushengyuan/yushengyuan/personal-project/client-system/egg/node_modules/egg/config/config.default.js",
+      "clean": "/Users/yushengyuan/yushengyuan/personal-project/client-system/egg/node_modules/egg/config/config.default.js"
+    },
+    "dependencies": {
+      "egg": "/Users/yushengyuan/yushengyuan/personal-project/client-system/egg/node_modules/egg/config/config.default.js",
+      "egg-scripts": "/Users/yushengyuan/yushengyuan/personal-project/client-system/egg/node_modules/egg/config/config.default.js"
+    },
+    "devDependencies": {
+      "@types/mocha": "/Users/yushengyuan/yushengyuan/personal-project/client-system/egg/node_modules/egg/config/config.default.js",
+      "@types/node": "/Users/yushengyuan/yushengyuan/personal-project/client-system/egg/node_modules/egg/config/config.default.js",
+      "@types/supertest": "/Users/yushengyuan/yushengyuan/personal-project/client-system/egg/node_modules/egg/config/config.default.js",
+      "autod": "/Users/yushengyuan/yushengyuan/personal-project/client-system/egg/node_modules/egg/config/config.default.js",
+      "autod-egg": "/Users/yushengyuan/yushengyuan/personal-project/client-system/egg/node_modules/egg/config/config.default.js",
+      "egg-ci": "/Users/yushengyuan/yushengyuan/personal-project/client-system/egg/node_modules/egg/config/config.default.js",
+      "egg-bin": "/Users/yushengyuan/yushengyuan/personal-project/client-system/egg/node_modules/egg/config/config.default.js",
+      "egg-mock": "/Users/yushengyuan/yushengyuan/personal-project/client-system/egg/node_modules/egg/config/config.default.js",
+      "tslib": "/Users/yushengyuan/yushengyuan/personal-project/client-system/egg/node_modules/egg/config/config.default.js",
+      "eslint": "/Users/yushengyuan/yushengyuan/personal-project/client-system/egg/node_modules/egg/config/config.default.js",
+      "eslint-config-egg": "/Users/yushengyuan/yushengyuan/personal-project/client-system/egg/node_modules/egg/config/config.default.js",
+      "typescript": "/Users/yushengyuan/yushengyuan/personal-project/client-system/egg/node_modules/egg/config/config.default.js"
+    },
+    "engines": {
+      "node": "/Users/yushengyuan/yushengyuan/personal-project/client-system/egg/node_modules/egg/config/config.default.js"
+    },
+    "ci": {
+      "version": "/Users/yushengyuan/yushengyuan/personal-project/client-system/egg/node_modules/egg/config/config.default.js"
+    },
+    "repository": {
+      "type": "/Users/yushengyuan/yushengyuan/personal-project/client-system/egg/node_modules/egg/config/config.default.js",
+      "url": "/Users/yushengyuan/yushengyuan/personal-project/client-system/egg/node_modules/egg/config/config.default.js"
+    },
+    "eslintIgnore": "/Users/yushengyuan/yushengyuan/personal-project/client-system/egg/node_modules/egg/config/config.default.js",
+    "author": "/Users/yushengyuan/yushengyuan/personal-project/client-system/egg/node_modules/egg/config/config.default.js",
+    "license": "/Users/yushengyuan/yushengyuan/personal-project/client-system/egg/node_modules/egg/config/config.default.js"
+  },
+  "baseDir": "/Users/yushengyuan/yushengyuan/personal-project/client-system/egg/node_modules/egg/config/config.default.js",
+  "HOME": "/Users/yushengyuan/yushengyuan/personal-project/client-system/egg/node_modules/egg/config/config.default.js",
+  "rundir": "/Users/yushengyuan/yushengyuan/personal-project/client-system/egg/node_modules/egg/config/config.default.js",
+  "dump": {
+    "ignore": "/Users/yushengyuan/yushengyuan/personal-project/client-system/egg/node_modules/egg/config/config.default.js"
+  },
+  "confusedConfigurations": {
+    "bodyparser": "/Users/yushengyuan/yushengyuan/personal-project/client-system/egg/node_modules/egg/config/config.default.js",
+    "notFound": "/Users/yushengyuan/yushengyuan/personal-project/client-system/egg/node_modules/egg/config/config.default.js",
+    "sitefile": "/Users/yushengyuan/yushengyuan/personal-project/client-system/egg/node_modules/egg/config/config.default.js",
+    "middlewares": "/Users/yushengyuan/yushengyuan/personal-project/client-system/egg/node_modules/egg/config/config.default.js",
+    "httpClient": "/Users/yushengyuan/yushengyuan/personal-project/client-system/egg/node_modules/egg/config/config.default.js"
+  },
+  "notfound": {
+    "pageUrl": "/Users/yushengyuan/yushengyuan/personal-project/client-system/egg/node_modules/egg/config/config.default.js"
+  },
+  "siteFile": {
+    "/favicon.ico": "/Users/yushengyuan/yushengyuan/personal-project/client-system/egg/node_modules/egg/config/config.default.js",
+    "cacheControl": "/Users/yushengyuan/yushengyuan/personal-project/client-system/egg/node_modules/egg/config/config.default.js"
+  },
+  "bodyParser": {
+    "enable": "/Users/yushengyuan/yushengyuan/personal-project/client-system/egg/node_modules/egg/config/config.default.js",
+    "encoding": "/Users/yushengyuan/yushengyuan/personal-project/client-system/egg/node_modules/egg/config/config.default.js",
+    "formLimit": "/Users/yushengyuan/yushengyuan/personal-project/client-system/egg/node_modules/egg/config/config.default.js",
+    "jsonLimit": "/Users/yushengyuan/yushengyuan/personal-project/client-system/egg/node_modules/egg/config/config.default.js",
+    "textLimit": "/Users/yushengyuan/yushengyuan/personal-project/client-system/egg/node_modules/egg/config/config.default.js",
+    "strict": "/Users/yushengyuan/yushengyuan/personal-project/client-system/egg/node_modules/egg/config/config.default.js",
+    "queryString": {
+      "arrayLimit": "/Users/yushengyuan/yushengyuan/personal-project/client-system/egg/node_modules/egg/config/config.default.js",
+      "depth": "/Users/yushengyuan/yushengyuan/personal-project/client-system/egg/node_modules/egg/config/config.default.js",
+      "parameterLimit": "/Users/yushengyuan/yushengyuan/personal-project/client-system/egg/node_modules/egg/config/config.default.js"
+    },
+    "onerror": "/Users/yushengyuan/yushengyuan/personal-project/client-system/egg/node_modules/egg/config/config.default.js"
+  },
+  "logger": {
+    "dir": "/Users/yushengyuan/yushengyuan/personal-project/client-system/egg/node_modules/egg/config/config.default.js",
+    "encoding": "/Users/yushengyuan/yushengyuan/personal-project/client-system/egg/node_modules/egg/config/config.default.js",
+    "env": "/Users/yushengyuan/yushengyuan/personal-project/client-system/egg/node_modules/egg/config/config.default.js",
+    "level": "/Users/yushengyuan/yushengyuan/personal-project/client-system/egg/node_modules/egg/config/config.default.js",
+    "consoleLevel": "/Users/yushengyuan/yushengyuan/personal-project/client-system/egg/node_modules/egg/config/config.default.js",
+    "disableConsoleAfterReady": "/Users/yushengyuan/yushengyuan/personal-project/client-system/egg/node_modules/egg/config/config.default.js",
+    "outputJSON": "/Users/yushengyuan/yushengyuan/personal-project/client-system/egg/node_modules/egg/config/config.default.js",
+    "buffer": "/Users/yushengyuan/yushengyuan/personal-project/client-system/egg/node_modules/egg/config/config.default.js",
+    "appLogName": "/Users/yushengyuan/yushengyuan/personal-project/client-system/egg/node_modules/egg/config/config.default.js",
+    "coreLogName": "/Users/yushengyuan/yushengyuan/personal-project/client-system/egg/node_modules/egg/config/config.default.js",
+    "agentLogName": "/Users/yushengyuan/yushengyuan/personal-project/client-system/egg/node_modules/egg/config/config.default.js",
+    "errorLogName": "/Users/yushengyuan/yushengyuan/personal-project/client-system/egg/node_modules/egg/config/config.default.js",
+    "coreLogger": {
+      "consoleLevel": "/Users/yushengyuan/yushengyuan/personal-project/client-system/egg/node_modules/egg/config/config.local.js"
+    },
+    "allowDebugAtProd": "/Users/yushengyuan/yushengyuan/personal-project/client-system/egg/node_modules/egg/config/config.default.js",
+    "enablePerformanceTimer": "/Users/yushengyuan/yushengyuan/personal-project/client-system/egg/node_modules/egg/config/config.default.js"
+  },
+  "httpclient": {
+    "enableDNSCache": "/Users/yushengyuan/yushengyuan/personal-project/client-system/egg/node_modules/egg/config/config.default.js",
+    "dnsCacheLookupInterval": "/Users/yushengyuan/yushengyuan/personal-project/client-system/egg/node_modules/egg/config/config.default.js",
+    "dnsCacheMaxLength": "/Users/yushengyuan/yushengyuan/personal-project/client-system/egg/node_modules/egg/config/config.default.js",
+    "request": {
+      "timeout": "/Users/yushengyuan/yushengyuan/personal-project/client-system/egg/node_modules/egg/config/config.default.js"
+    },
+    "httpAgent": {
+      "keepAlive": "/Users/yushengyuan/yushengyuan/personal-project/client-system/egg/node_modules/egg/config/config.default.js",
+      "freeSocketTimeout": "/Users/yushengyuan/yushengyuan/personal-project/client-system/egg/node_modules/egg/config/config.default.js",
+      "maxSockets": "/Users/yushengyuan/yushengyuan/personal-project/client-system/egg/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/Users/yushengyuan/yushengyuan/personal-project/client-system/egg/node_modules/egg/config/config.default.js"
+    },
+    "httpsAgent": {
+      "keepAlive": "/Users/yushengyuan/yushengyuan/personal-project/client-system/egg/node_modules/egg/config/config.default.js",
+      "freeSocketTimeout": "/Users/yushengyuan/yushengyuan/personal-project/client-system/egg/node_modules/egg/config/config.default.js",
+      "maxSockets": "/Users/yushengyuan/yushengyuan/personal-project/client-system/egg/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/Users/yushengyuan/yushengyuan/personal-project/client-system/egg/node_modules/egg/config/config.default.js"
+    }
+  },
+  "meta": {
+    "enable": "/Users/yushengyuan/yushengyuan/personal-project/client-system/egg/node_modules/egg/config/config.default.js",
+    "logging": "/Users/yushengyuan/yushengyuan/personal-project/client-system/egg/node_modules/egg/config/config.default.js"
+  },
+  "coreMiddleware": "/Users/yushengyuan/yushengyuan/personal-project/client-system/egg/node_modules/egg/config/config.default.js",
+  "workerStartTimeout": "/Users/yushengyuan/yushengyuan/personal-project/client-system/egg/node_modules/egg/config/config.default.js",
+  "serverTimeout": "/Users/yushengyuan/yushengyuan/personal-project/client-system/egg/node_modules/egg/config/config.default.js",
+  "cluster": {
+    "listen": {
+      "path": "/Users/yushengyuan/yushengyuan/personal-project/client-system/egg/node_modules/egg/config/config.default.js",
+      "port": "/Users/yushengyuan/yushengyuan/personal-project/client-system/egg/node_modules/egg/config/config.default.js",
+      "hostname": "/Users/yushengyuan/yushengyuan/personal-project/client-system/egg/node_modules/egg/config/config.default.js"
+    }
+  },
+  "clusterClient": {
+    "maxWaitTime": "/Users/yushengyuan/yushengyuan/personal-project/client-system/egg/node_modules/egg/config/config.default.js",
+    "responseTimeout": "/Users/yushengyuan/yushengyuan/personal-project/client-system/egg/node_modules/egg/config/config.default.js"
+  },
+  "onClientError": "/Users/yushengyuan/yushengyuan/personal-project/client-system/egg/node_modules/egg/config/config.default.js"
+}

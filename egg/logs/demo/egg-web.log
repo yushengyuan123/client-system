@@ -1,0 +1,41 @@
+2022-05-07 21:58:13,260 INFO 12934 [egg:logger] init all loggers with options: {"dir":"/Users/yushengyuan/yushengyuan/personal-project/client-system/egg/logs/demo","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"demo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-05-07 21:58:13,272 INFO 12934 [egg-multipart] stream mode enable
+2022-05-07 21:58:13,299 INFO 12934 [egg-static] starting static serve /public/ -> /Users/yushengyuan/yushengyuan/personal-project/client-system/egg/app/public
+2022-05-07 21:58:13,300 WARN 12934 [egg-security] Please use `config.security.csrf = { enable: false }` instead of `config.security.csrf = false`
+2022-05-07 21:58:13,300 INFO 12934 [egg-security] use methodnoallow middleware
+2022-05-07 21:58:13,300 INFO 12934 [egg-security] use noopen middleware
+2022-05-07 21:58:13,301 INFO 12934 [egg-security] use nosniff middleware
+2022-05-07 21:58:13,301 INFO 12934 [egg-security] use xssProtection middleware
+2022-05-07 21:58:13,301 INFO 12934 [egg-security] use xframe middleware
+2022-05-07 21:58:13,301 INFO 12934 [egg-security] use dta middleware
+2022-05-07 21:58:13,301 INFO 12934 [egg-security] compose 6 middlewares into one security middleware
+2022-05-07 21:58:13,305 INFO 12934 [egg:core] dump config after load, 2ms
+2022-05-07 21:58:13,312 INFO 12934 [egg-watcher:application] watcher start success
+2022-05-07 21:58:13,315 INFO 12934 [egg:core] dump config after ready, 2ms
+2022-05-07 22:01:47,248 INFO 13202 [egg:logger] init all loggers with options: {"dir":"/Users/yushengyuan/yushengyuan/personal-project/client-system/egg/logs/demo","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"demo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-05-07 22:01:47,260 INFO 13202 [egg-multipart] stream mode enable
+2022-05-07 22:01:47,287 INFO 13202 [egg-static] starting static serve /public/ -> /Users/yushengyuan/yushengyuan/personal-project/client-system/egg/app/public
+2022-05-07 22:01:47,287 WARN 13202 [egg-security] Please use `config.security.csrf = { enable: false }` instead of `config.security.csrf = false`
+2022-05-07 22:01:47,288 INFO 13202 [egg-security] use methodnoallow middleware
+2022-05-07 22:01:47,288 INFO 13202 [egg-security] use noopen middleware
+2022-05-07 22:01:47,288 INFO 13202 [egg-security] use nosniff middleware
+2022-05-07 22:01:47,289 INFO 13202 [egg-security] use xssProtection middleware
+2022-05-07 22:01:47,289 INFO 13202 [egg-security] use xframe middleware
+2022-05-07 22:01:47,289 INFO 13202 [egg-security] use dta middleware
+2022-05-07 22:01:47,289 INFO 13202 [egg-security] compose 6 middlewares into one security middleware
+2022-05-07 22:01:47,293 INFO 13202 [egg:core] dump config after load, 2ms
+2022-05-07 22:01:47,299 INFO 13202 [egg-watcher:application] watcher start success
+2022-05-07 22:01:47,303 INFO 13202 [egg:core] dump config after ready, 3ms
+2022-05-07 22:02:43,698 INFO 13270 [egg:logger] init all loggers with options: {"dir":"/Users/yushengyuan/yushengyuan/personal-project/client-system/egg/logs/demo","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"demo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-05-07 22:02:43,713 INFO 13270 [egg-multipart] stream mode enable
+2022-05-07 22:02:43,738 INFO 13270 [egg-static] starting static serve /public/ -> /Users/yushengyuan/yushengyuan/personal-project/client-system/egg/app/public
+2022-05-07 22:02:43,739 INFO 13270 [egg-security] use methodnoallow middleware
+2022-05-07 22:02:43,739 INFO 13270 [egg-security] use noopen middleware
+2022-05-07 22:02:43,739 INFO 13270 [egg-security] use nosniff middleware
+2022-05-07 22:02:43,739 INFO 13270 [egg-security] use xssProtection middleware
+2022-05-07 22:02:43,739 INFO 13270 [egg-security] use xframe middleware
+2022-05-07 22:02:43,739 INFO 13270 [egg-security] use dta middleware
+2022-05-07 22:02:43,739 INFO 13270 [egg-security] compose 6 middlewares into one security middleware
+2022-05-07 22:02:43,743 INFO 13270 [egg:core] dump config after load, 2ms
+2022-05-07 22:02:43,747 INFO 13270 [egg-watcher:application] watcher start success
+2022-05-07 22:02:43,750 INFO 13270 [egg:core] dump config after ready, 2ms

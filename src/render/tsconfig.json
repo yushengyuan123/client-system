@@ -1,0 +1,24 @@
+{
+  "compilerOptions": {
+    "module": "esnext",
+    "moduleResolution": "node",
+    "target": "esnext",
+    "baseUrl": "./",
+    "paths": {
+      "@": ["./src"]
+    },
+    "sourceMap": true
+  },
+  "include": [
+    "./src/*.ts",
+    "./src/*.d.ts",
+    "./src/**/*.ts",
+    "./src/**/*.d.ts",
+    "./src/**/*.vue",
+    "./src/**/*.tsx",
+    "index.d.ts"
+  ],
+  "exclude": [
+    "node_modules"
+  ]
+}
